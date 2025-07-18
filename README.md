@@ -12,7 +12,7 @@
 
 ## 📦 Tech Stack
 
-- **Frontend:** React.js / Next.js (optional if web UI included)
+- **Frontend:** React.js / Next.js
 - **Backend:** Node.js / Python (Flask or FastAPI)
 - **AI Model:** OpenAI GPT / Local LLM integration
 - **Others:** Git, Docker (optional), REST APIs
